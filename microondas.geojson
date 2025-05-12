@@ -1,0 +1,27 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "geometry":{
+                "type": "Point",
+                "coordinates": [4.653617986080936, -74.12514382716708]
+            },
+            "properties": {
+                "Modelo": WM1807D,
+                "Alto":	26.2 cm,
+                "Ancho": 45.5 cm,
+                "País de origen": China,
+                "Color": Silver,acabado espejo,
+                "Capacidad": 20lt,
+                "Potencia": 700W,
+                "Profundidad": 31.5cm,
+                "Voltaje": 120V
+            }
+
+        }
+
+
+    ]
+
+}
