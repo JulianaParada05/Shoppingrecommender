@@ -49,8 +49,7 @@
                 "Voltaje":120v,
             }
         }
-    }
-                {
+        {
             "type":"Feature",
             "geometry":{
                 "type": "Point",
