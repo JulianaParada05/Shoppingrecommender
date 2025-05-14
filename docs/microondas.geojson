@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6429920141129895, -74.07495152005963]
+      },
+      "properties": {
+        "Precio": 309.900,
+        "Alto": 26.2,
+        "Ancho": 45.5,
+        "Capacidad": 20,
+        "Potencia": 700,
+        "Profundidad": 31.5,
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.612694853150547, -74.09499406909175]
+      },
+      "properties": {
+        "Precio": 249.900,
+        "Potencia": 700,
+        "Voltaje": 110,
+        "Ancho": 44,
+        "Fondo": 32.9,
+        "Alto": 25.9,
+        "Garantía": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6190528157319575, -74.08664517567405]
+      },
+      "properties": {
+        "Precio": 269.900,
+        "Alto": 29.2,
+        "Ancho": 49.6,
+        "Garantía": 12,
+        "Profundidad": 34,
+        "Potencia": 700,
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6190528157319575, -74.08664517567405]
+      },
+      "properties": {
+        "Precio": 269.900,
+        "Alto": 29.2,
+        "Ancho": 49.6,
+        "Garantía": 12,
+        "Profundidad": 34,
+        "Potencia": 700,
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6434465240884455, -74.0532516978778]
+      },
+      "properties": {
+        "PrecioDescuento": 347942,
+        "Precio": 599900,
+        "Alto": "ND",
+        "Ancho": "ND",
+        "Profundidad": "ND",
+        "Capacidad": 25,
+        "Modelo": "EMDY25S0MXB",
+        "Potencia": 1200,
+        "Voltaje": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.569740896615461, -74.09324359844821]
+      },
+      "properties": {
+        "PrecioDescuento": 399900,
+        "Precio": 269900,
+        "Alto": 25.9,
+        "Ancho": 44,
+        "Profundidad": 32.9,
+        "Capacidad": 0.7,
+        "Modelo": "K-MW07N ",
+        "Potencia": 700,
+        "Voltaje": 115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.619825390470579, -74.08264667632004]
+      },
+      "properties": {
+        "PrecioDescuento": 299900,
+        "Precio": 381900,
+        "Alto": 24.3,
+        "Ancho": 44.6,
+        "Profundidad": 36,
+        "Capacidad": 20,
+        "Modelo": "HM HACEB 0,7 BL",
+        "Potencia": 1100,
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.569510227701258, -74.09956589621649]
+      },
+      "properties": {
+        "PrecioDescuento": 289900,
+        "Precio": 399900,
+        "Alto": 25.9,
+        "Ancho": 44.0,
+        "Profundidad": 32.9,
+        "Capacidad": 0.7,
+        "Modelo": "MMDF07S2MB",
+        "Potencia": "ND",
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.64329856755299, -74.07332184926857]
+      },
+      "properties": {
+        "PrecioDescuento": 249900,
+        "Precio": 349900,
+        "Alto": 25.8,
+        "Ancho": 44,
+        "Profundidad": 33.4,
+        "Capacidad": 20,
+        "Modelo": "RMD-CUCINA20-B",
+        "Potencia": 1050,
+        "Voltaje": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.680536921227622, -74.04139842587168]
+      },
+      "properties": {
+        "PrecioDescuento": 389900,
+        "Precio": 799900,
+        "Alto": 26.1,
+        "Ancho": 45.4,
+        "Profundidad": 32.8,
+        "Capacidad": 20,
+        "Modelo": "MS2032GAS NeoChef Slim",
+        "Potencia": "ND",
+        "Voltaje": "ND"
+      }
+    }
+  ]
+}
