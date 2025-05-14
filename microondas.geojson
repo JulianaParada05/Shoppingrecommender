@@ -1,69 +1,69 @@
 {
-    "type":"FeatureCollection",
-    "features":[
-        {
-            "type":"Feature",
-            "geometry":{
-                "type": "Point",
-                "coordinates": [4.6429920141129895, -74.07495152005963]
-            },
-            "properties": {
-                "Precio":$ 309.900,
-                "Alto":	26.2 cm,
-                "Ancho": 45.5 cm,
-                "Capacidad": 20lt,
-                "Potencia": 700W,
-                "Profundidad": 31.5cm,
-                "Voltaje": 120V
-            }
-        }
-        {
-            "type":"Feature",
-            "geometry":{
-                "type": "Point",
-                "coordinates": [4.612694853150547, -74.09499406909175]
-            },
-            "properties": {
-                "Precio": $249.900,
-                "Potencia":700 watts,
-                "Voltaje": Rango entre 110 V y 120 V,
-                "Ancho": 44 Cm,
-                "Fondo":32.9 Cm,
-                "Alto":25.9 cm,
-                "Garantía": 24 meses
-            }
-        }
-                {
-            "type":"Feature",
-            "geometry":{
-                "type": "Point",
-                "coordinates": [4.6190528157319575, -74.08664517567405]
-            },
-            "properties": {
-                "Precio": $269.900,
-                "Alto": 29.2 cm,
-                "Ancho":49.6 cm,
-                "Garantía": 12 meses,
-                "Profundidad": 34 cm,
-                "Potencia":700w,
-                "Voltaje":120v,
-            }
-        }
-        {
-            "type":"Feature",
-            "geometry":{
-                "type": "Point",
-                "coordinates": [4.6190528157319575, -74.08664517567405]
-            },
-            "properties": {
-                "Precio": $269.900,
-                "Alto": 29.2 cm,
-                "Ancho":49.6 cm,
-                "Garantía": 12 meses,
-                "Profundidad": 34 cm,
-                "Potencia":700w,
-                "Voltaje":120v,
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6429920141129895, -74.07495152005963]
+      },
+      "properties": {
+        "Precio": 309.900,
+        "Alto": 26.2,
+        "Ancho": 45.5,
+        "Capacidad": 20,
+        "Potencia": 700,
+        "Profundidad": 31.5,
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.612694853150547, -74.09499406909175]
+      },
+      "properties": {
+        "Precio": 249.900,
+        "Potencia": 700,
+        "Voltaje": 110,
+        "Ancho": 44,
+        "Fondo": 32.9,
+        "Alto": 25.9,
+        "Garantía": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6190528157319575, -74.08664517567405]
+      },
+      "properties": {
+        "Precio": 269.900,
+        "Alto": 29.2,
+        "Ancho": 49.6,
+        "Garantía": 12,
+        "Profundidad": 34,
+        "Potencia": 700,
+        "Voltaje": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6190528157319575, -74.08664517567405]
+      },
+      "properties": {
+        "Precio": 269.900,
+        "Alto": 29.2,
+        "Ancho": 49.6,
+        "Garantía": 12,
+        "Profundidad": 34,
+        "Potencia": 700,
+        "Voltaje": 120
+      }
+    }
+  ]
 }
